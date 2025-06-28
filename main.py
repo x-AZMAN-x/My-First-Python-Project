@@ -1,4 +1,11 @@
 """
+Variable
+It Is A Location In The Computer's Memory where We Store Data/Info/Value And The Location Has A Name.
+Memory Has 2 Parts- ROM(Secondary) And RAM(Primary).
+
+Keywords In Python Were Pre-Defined.
+"""
+"""
 Person1
 """
 person1 = "Azman"
